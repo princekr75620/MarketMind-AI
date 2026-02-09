@@ -1,12 +1,49 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🚀 Marketing AI Platform
 
-# Run and deploy your AI Studio app
+An intelligent, scalable **Marketing AI** application built to automate content generation, campaign optimization, and data-driven marketing workflows. Designed with performance, flexibility, and modern UI in mind.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/drive/1ce5Z0fukM7gQWiT_qkF_s4r6gvciUfvY
+## 🧠 Tech Stack
+
+### Frontend
+- **TypeScript / JavaScript** – Strong typing and modern JS features
+- **Tailwind CSS** – Utility-first CSS framework for rapid UI development
+- **Cosmic CSS** – Custom design system for consistent branding and styling
+
+### AI & Logic
+- AI-powered workflows for marketing automation
+- Modular architecture for easy integration with APIs and models
+
+---
+
+## ✨ Features
+
+- 🤖 AI-powered marketing content generation
+- 📊 Campaign insights and optimization tools
+- 🎨 Responsive, modern UI with Tailwind + Cosmic CSS
+- ⚡ Fast development with TypeScript
+- 🧩 Component-based and scalable architecture
+- 🔒 Secure and production-ready setup
+
+---
+
+## 📁 Project Structure
+
+```txt
+├── src/
+│   ├── components/      # Reusable UI components
+│   ├── pages/           # Application pages
+│   ├── styles/          # Tailwind & Cosmic CSS styles
+│   ├── utils/           # Helper functions and utilities
+│   ├── ai/              # AI logic and integrations
+│   └── main.ts          # App entry point
+├── public/              # Static assets
+├── tailwind.config.js   # Tailwind configuration
+├── tsconfig.json        # TypeScript configuration
+└── package.json         # Dependencies & scripts
+
+
 
 ## Run Locally
 
