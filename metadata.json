@@ -1,0 +1,7 @@
+{
+  "name": "MarketMind AI",
+  "description": "MarketMind is a cutting-edge Generative AI-powered Sales & Marketing Intelligence platform that helps teams generate campaigns, analyze leads, and gain predictive business insights.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
